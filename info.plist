@@ -10,6 +10,13 @@
 	<string>Syntax highlighting for the Friendly Interactive Shell (fish).</string>
 	<key>name</key>
 	<string>fish</string>
+	<key>source</key>
+	<dict>
+		<key>method</key>
+		<string>git</string>
+		<key>url</key>
+		<string>git@github.com:mparker17/fish.tmbundle</string>
+	</dict>
 	<key>uuid</key>
 	<string>457B3E6D-0F56-4DDE-924E-230EFFBF2ECF</string>
 </dict>
